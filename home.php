@@ -16,7 +16,7 @@ if (isset($_SESSION["username"])) {
 ?>
 <HTML>
 <HEAD>
-<TITLE>Welcome</TITLE>
+<TITLE>Welcome To My Page</TITLE>
 <link href="assets/css/phppot-style.css" type="text/css"
 	rel="stylesheet" />
 <link href="assets/css/user-registration.css" type="text/css"
